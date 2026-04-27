@@ -66,7 +66,6 @@ This repository includes three approaches to CI/CD with GitHub Actions:
 ![Build](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/build.yml/badge.svg?branch=main)
 ![Integration Test](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/integration-test.yml/badge.svg?branch=main)
 ![Javadoc](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/javadoc.yml/badge.svg?branch=main)
-
 ## How to build and test
 
 ```bash
