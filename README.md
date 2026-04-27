@@ -61,11 +61,11 @@ This repository includes three approaches to CI/CD with GitHub Actions:
 
 > Replace `feerrescobarr/CICDTaskManager` with your own GitHub username and repository name.
 
-![Compile](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/compile.yml/badge.svg?branch=main)
-![Test](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/test.yml/badge.svg?branch=main)
-![Build](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/build.yml/badge.svg?branch=main)
-![Integration Test](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/integration-test.yml/badge.svg?branch=main)
-![Javadoc](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/javadoc.yml/badge.svg?branch=main)
+![Compile](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/compile.yml/badge.svg)
+![Test](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/test.yml/badge.svg)
+![Build](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/build.yml/badge.svg)
+![Integration Test](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/integration-test.yml/badge.svg)
+![Javadoc](https://github.com/feerrescobarr/CICDTaskManager/actions/workflows/javadoc.yml/badge.svg)
 
 ## How to build and test
 
